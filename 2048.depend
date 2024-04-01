@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1682939789 source:c:\users\user\desktop\c proglamlama\2048\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+
